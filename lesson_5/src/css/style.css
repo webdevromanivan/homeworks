@@ -1,0 +1,75 @@
+body {
+  background: black;
+  background-image: url();
+  background-repeat: no-repeat;  
+}
+
+h1 {
+  text-align: center;
+  color: lightcoral;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+li {
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+#chapter_1 {
+  color: yellow;
+}
+
+#chapter_2 {
+  color: aqua;
+}
+
+#chapter_3 {
+  color: blueviolet;
+}
+
+#chapter_4 {
+  color: forestgreen;
+}
+
+#chapter_5 {
+  color: darkorange;
+}
+
+.content {
+  outline: 2px solid white;
+  margin-right: 1610px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.fatty {
+  font-weight: bold;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.all {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
