@@ -1,0 +1,86 @@
+body {
+  background: black;
+  background-image: url(vlastelin_kolec_2.jpg);
+  background-repeat: no-repeat;
+  margin:
+}
+
+h1 {
+  text-align: center;
+  color: lightcoral;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+  margin: 0 300px 0 0;
+}
+
+#start {
+  margin: 0;
+}
+
+li {
+  color: yellow;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+#chapter_1 {
+  color: yellow;
+}
+
+#chapter_2 {
+  color: aqua;
+}
+
+#chapter_3 {
+  color: blueviolet;
+}
+
+#chapter_4 {
+  color: forestgreen;
+}
+
+#chapter_5 {
+  color: darkorange;
+}
+
+.content_1 {
+  position: absolute;
+}
+
+.content_2 {
+  outline: 2px solid yellow;
+  position: fixed;
+  right: 50px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.fatty {
+  font-weight: bold;
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.all {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
