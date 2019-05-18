@@ -1,0 +1,58 @@
+body {
+  background: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  margin: 100px 0 0 0;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 1150px;
+  margin: 125px auto auto auto;
+}
+
+.description_foto {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: #ffffff;
+  width: 263px;
+  height: 210px;
+}
+
+.description-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 25px auto auto auto;
+}
+
+.description-2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-weight: 700;
+  margin: 25px auto auto auto;
+}
+
+.description-click {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 25px auto auto auto;
+}
+
+button {
+  color: #23bac1;
+  font-weight: 700;
+  width: 200px;
+  height: 55px;
+  border: 1px solid #23bac1;
+  background-repeat:no-repeat;
+  background-color: transparent;
+  cursor:pointer;
+}
