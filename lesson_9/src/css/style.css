@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 82px;
+  color: #333333;
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
+.foto {
+  width: 74px;
+  height: 70px;
+}
+
+.foto-5 { /* Подгонял методом среднего арифмитического + исходные размеры (разница между шириной и высотой по макету сохранена в 22px) */
+  min-width: 92px; 
+  max-width: 92px;
+  min-height: 70px;
+}
+
+.col-12 {
+  text-align: center;
+}
+
+.text {
+  color: #333333;
+  font-size: 16px;
+  font-weight: 700;
+}
